@@ -10,6 +10,6 @@ public class SanDiego extends City{
 	double getAnnualTaxes() {
 		double totalTax = population*1.6 + (1000000);
 		return totalTax;
-
+			
 	}
 }
